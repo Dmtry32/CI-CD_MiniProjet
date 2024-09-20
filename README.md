@@ -1,6 +1,7 @@
 # CI-CD_MiniProjet
 #1 setup testgroq api token localy
-
+groq
+![image](https://github.com/user-attachments/assets/98d328f9-2dd3-4a75-bec0-5a5449cebb31)
 
 
 #2 setup and dockerize the fastAPI application
